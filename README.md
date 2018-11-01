@@ -1,2 +1,3 @@
-# test_git_L1F16BSCS0183
-Git and Github test
+Name:Muhammad Abubakar Majeed
+Email:abubakar.majeed13@gmail.com
+Faculty of Information and Technology
